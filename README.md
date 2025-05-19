@@ -98,6 +98,5 @@ Here's a breakdown of the main OOP components:
 
 ## 🙌 Support
 
-If you found this project helpful or interesting, please consider giving it a ⭐ on GitHub!
-
-👉 [Click here to star the repo](https://github.com/prasad-xma/OOP-AdMaven/stargazers)
+If you found this project helpful or interesting, please consider giving it a ⭐ on GitHub!  
+👉 [Star this repository on GitHub](https://github.com/prasad-xma/OOP-AdMaven)
