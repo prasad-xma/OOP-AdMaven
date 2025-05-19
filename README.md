@@ -95,3 +95,9 @@ Here's a breakdown of the main OOP components:
 📁 assets/
 ├── Class Diagram.png
 
+
+## 🙌 Support
+
+If you found this project helpful or interesting, please consider giving it a ⭐ on GitHub!
+
+👉 [Click here to star the repo](https://github.com/prasad-xma/OOP-AdMaven/stargazers)
