@@ -94,7 +94,7 @@ Here's a breakdown of the main OOP components:
 ├── ...
 📁 assets/
 ├── Class Diagram.png
-
+```
 
 ## 🙌 Support
 
