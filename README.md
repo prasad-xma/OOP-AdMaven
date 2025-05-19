@@ -1,4 +1,4 @@
-# OOP-Based Service Management System
+# OOP-Based advertising agency(AdMaven) System
 
 ![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![OOP](https://img.shields.io/badge/Paradigm-OOP-blueviolet?style=for-the-badge)
